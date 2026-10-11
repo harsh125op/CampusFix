@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusFix</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_report">Report Issue</string>
+    <string name="nav_my_reports">My Reports</string>
+    <string name="nav_help">Help Directory</string>
+    <string name="nav_guidelines">Guidelines</string>
+
+    <!-- Options Menu -->
+    <string name="menu_admin_mode">Admin Mode</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_welcome">Campus Issue Overview</string>
+    <string name="total_reports">Total Reports</string>
+    <string name="open_reports">Open</string>
+    <string name="in_progress_reports">In Progress</string>
+    <string name="resolved_reports">Resolved</string>
+
+    <!-- Report Creation -->
+    <string name="report_title_hint">Issue Title (e.g., Broken Light)</string>
+    <string name="report_desc_hint">Detailed Description&#8230;</string>
+    <string name="report_location_hint">Location (Building, Floor, Room)</string>
+    <string name="category_prompt">Select Category</string>
+    <string name="priority_prompt">Select Priority</string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="btn_choose_photo">Pick Image</string>
+    <string name="btn_submit_report">Submit Issue Report</string>
+    <string name="chk_safety_hazard">Mark as Immediate Safety Hazard</string>
+
+    <!-- Settings Dialog -->
+    <string name="title_user_preferences">User Preferences</string>
+    <string name="pref_user_name">Reporter Name</string>
+    <string name="pref_user_email">Contact Email</string>
+    <string name="pref_notifications">Enable Local Notifications</string>
+</resources>
